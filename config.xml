@@ -5,10 +5,10 @@
         id        = "es.anfac.vodafonecampus"
         versionCode = "100"
         version   = "1.0.1">
-    <name>Vodafone Campus</name>
+    <name>DgtHealth</name>
 
     <description>
-        Vodafone Campus
+       DgtHealth app
     </description>
 
     <author href="http://www.anf.es" email="adiaz@anf.es">
@@ -34,7 +34,7 @@
 
     <allow-intent href="*" />
 
-    <preference name="phonegap-version" value="cli-6.1.0" />
+    <preference name="phonegap-version" value="cli-6.4.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
